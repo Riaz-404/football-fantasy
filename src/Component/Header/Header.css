@@ -1,0 +1,46 @@
+.header img{
+    height: 100px;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.header-tagline{
+    font-size: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    color: #000042;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+.navigation-bar nav{
+    background-color: #000042;
+    line-height: 50px;
+    font-size: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    color : white;
+    margin-left: 20px;
+    margin-right: 5px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+nav a:hover{
+    background-color: #AA1428;
+    color: white;
+    font-size: 21px;
+}
+
+#racism{
+    float: right;
+    padding: 0px 10px;
+}

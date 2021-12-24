@@ -1,0 +1,39 @@
+
+.player-container{
+    display: flex;
+    border-bottom: 1px solid #EFEFEF;
+    padding: 10px;
+    margin: 10px;
+}
+
+.player-details{
+    margin-left: 20px;
+}
+
+#player-name{
+    font-family: 'Proza Libre', sans-serif;
+    font-weight: bolder;
+}
+
+.player-form{
+    display: flex;
+    height: 100px;
+}
+
+.form{
+    padding: 0 10px;
+}
+
+.form-border{
+    border-right: 1px solid #EFEFEF;
+}
+
+.btn{
+    margin-top: 10px;
+}
+
+.btn:hover{
+    background-color: #AA1428 !important;
+    color: white;
+    font-size: 17px;
+}

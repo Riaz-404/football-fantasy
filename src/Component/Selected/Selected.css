@@ -1,0 +1,22 @@
+.selected-container{
+    width: 375px;
+    padding: 10px;
+}
+
+.player-section{
+    border-bottom: 1px solid #EFEFEF;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+.text-righted{
+    float: right;
+}
+
+.total-section{
+    padding: 0 10px;
+}
+
+#title{
+    margin-bottom: 20px;
+}
