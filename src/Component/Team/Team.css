@@ -34,6 +34,7 @@
 
 .btn:hover{
     background-color: #AA1428 !important;
+    border-color: #AA1428 !important;
     color: white;
     font-size: 17px;
 }
